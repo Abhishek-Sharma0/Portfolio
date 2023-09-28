@@ -1,3 +1,5 @@
+This portfolio website is a showcase of my skills, projects, and personal information. It has been built using HTML for structure, CSS for styling, and JavaScript for interactivity. The website is designed to help me present my work and credentials in a professional and visually appealing manner.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
